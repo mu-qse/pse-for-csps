@@ -15,7 +15,7 @@
         <module>python-bridge</module>
         <module>pipeline</module>
         <module>examples</module>
-        <module>classical-solvers</module>
+        <module>solvers/classical</module>
     </modules>
 
     <properties>
